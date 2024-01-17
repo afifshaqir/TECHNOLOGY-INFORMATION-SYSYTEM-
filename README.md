@@ -78,8 +78,8 @@ Interview Session with Mr Aris: <br/><br />
 
 <b> What do I get ? </b>
 
-- I have learned about the basic components and hardwares of the computer and how to assemble as well as disassemble them
-- Besides, I learned how to work as a team and interact with each other because I need to work in team to assemble/disassemble the PC components
+-I learned new skills and knowledge from the PC assembly lab, including how to correctly assemble and disassemble a PC while being assisted by a skilled lab assistant.Before this, I would often ask for instructions on how to assemble a PC because I lacked knowledge and direction.Fortunately, the PC that my group (Group 1) assembled and disassembled lit up, demonstrating our newly acquired PC assembly skills.Afterwards , in order to assess our knowledge from the lab session, we must complete a brief exam on PC assembly.I am pleased with myself since I was able to obtain 5.5 out of 6 points.
+
 
 <b> Suggestion for improvement </b>
 
