@@ -67,7 +67,9 @@ Interview Session with Mr Aris: <br/><br />
 
 <p align="center">
 <br/><br />
-<img src="https://i.imgur.com/Of30MNm.jpg" height="30%" width="70%" alt="PC Assemble"/>
+<img src="https://i.imgur.com/2sQRrE5.jpg" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/p6r4VJO.jpg" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/8ohEi0A.jpg" title="source: imgur.com" /></a>
 <br />
 <br />
 </p>
