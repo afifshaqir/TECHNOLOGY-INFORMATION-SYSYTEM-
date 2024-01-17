@@ -1,4 +1,5 @@
-<h1>Technology & Information Systems</h1>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p><h1>Technology & Information Systems</h1>
 
 <h2>Description</h2>
 This courses is core subject for first year student in computer science course and mainly provide the students with the basic knowledge of computer science as well as giving an early exposure to the industry and encourage students to have an engagement with the experienced individual 
