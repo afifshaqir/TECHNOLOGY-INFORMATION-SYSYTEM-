@@ -40,7 +40,7 @@ that require us to speak fluently to communicatte with customers around the glob
 <br />
 Petronas Visit: <br/><br />
 <img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
-<img src="https://i.imgur.com/fdsbf0D.jpg" title="source: imgur.com" />
+<img src="https://i.imgur.com/fdsbf0D.jpg" title="source: imgur.com" height="30%" width="70%" alt="Petronas"/>
 <br />
 <br />
 Huawei Visit:  <br/><br/>
