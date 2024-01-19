@@ -12,7 +12,7 @@ Habib Talk: <br/><br />
 <img src="https://i.imgur.com/1IMRcI4undefined.jpg" title="source: imgur.com" /></a>
 <img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
 
-<h2>POSTER
+POSTER-
    *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf))</b>
    
 <h2>REFLECTION</h2>
