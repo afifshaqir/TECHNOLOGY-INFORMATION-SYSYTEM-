@@ -12,7 +12,7 @@ This courses is core subject for first year student in computer science course a
 <img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
 
 
-POSTER-
+PROJECT-
    *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf)</b>
 <h2>REFLECTION</h2>
 I have gained so many useful input especially to create as early as possible Linkedin account’s to put on interesting activities that I have joined or achievement that I gained during studies.He also shared on useful activities that we can join as first or second year student to enhance and boost our CV’s input quality.As far as I know,we do not
@@ -25,7 +25,7 @@ need to be active on all colloge or faculty’s activities but we must choose th
 <h2>PPG Talk:</h2>  <br/><br/>
 <img src="https://i.imgur.com/Ph7MQE4.png" height="30%" width="70%" alt="PPG"/>
   
-POSTER-
+PROJECT-
    *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf)</b>
   
 <h2>REFLECTION</h2>
@@ -39,7 +39,7 @@ that require us to speak fluently to communicatte with customers around the glob
 <img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
 <img src="https://i.imgur.com/fdsbf0D.jpg" height="30%" width="70%" alt="Petronas"/>
 
-POSTER-
+PROJECT-
    *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
   
 <h2>REFLECTION</h2>
@@ -51,7 +51,7 @@ access of their respective data and protect it from the outsiders. On the other 
 <h2>Huawei Visit:</h2>  <br/><br/>
 <img src="https://i.imgur.com/xlNoNp2.jpg" height="30%" width="70%" alt="Huawei"/>
 
-POSTER-
+PROJECT-
    *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
   
 <h2>REFLECTION</h2>
