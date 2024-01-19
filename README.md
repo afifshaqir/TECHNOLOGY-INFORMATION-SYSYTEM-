@@ -13,7 +13,8 @@ Habib Talk: <br/><br />
 <img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
 
 <h2>POSTER
-   <b>[CARRER DEVELOPMENT POSTER'S](file:///C:/Users/HP/Downloads/html5up-massively/images/CAREER%20DEVELOPMENT.pdf)</b>
+   *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf))</b>
+   
 <h2>REFLECTION</h2>
 I have gained so many useful input especially to create as early as possible Linkedin account’s to put
 on interesting activities that I have joined or achievement that I gained during studies.
