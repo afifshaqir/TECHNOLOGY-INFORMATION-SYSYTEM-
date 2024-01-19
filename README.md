@@ -1,4 +1,4 @@
-<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<h1 style="background-color:DodgerBlue;"></h1>
 <h1>Technology & Information Systems</h1>
 
 <h2>about the course</h2>
