@@ -27,8 +27,10 @@ but we must choose the one that are related to our study scope area (for example
 <p align="center">
 PPG Talk:  <br/><br/>
 <img src="https://i.imgur.com/Ph7MQE4.png" height="30%" width="70%" alt="PPG"/>
+  
 POSTER-
    *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf)</b>
+  
 <h2>REFLECTION</h2>
 The most highlighted information that I get is“ what is the criteria that I must have to increase my employability rate.
 -Communication,teamwork and problem solving is the main skills that I am looking for to improve in myself in order for me to be a quality graduate.
