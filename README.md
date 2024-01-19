@@ -9,7 +9,7 @@ This courses is core subject for first year student in computer science course a
 
 <p align="center">
 Habib Talk: <br/><br />
-<img src="https://i.imgur.com/1IMRcI4undefined.jpg" title="source: imgur.com" /></a>
+
 
 POSTER-
    *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf))</b>
