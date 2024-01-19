@@ -25,7 +25,7 @@ but we must choose the one that are related to our study scope area (for example
 <br />
 <br />
 <p align="center">
-PPG Talk:  <br/><br/>
+<h2>PPG Talk:</h2>  <br/><br/>
 <img src="https://i.imgur.com/Ph7MQE4.png" height="30%" width="70%" alt="PPG"/>
   
 POSTER-
