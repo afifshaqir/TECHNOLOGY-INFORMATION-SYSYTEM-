@@ -38,6 +38,7 @@ that require us to speak fluently to communicatte with customers around the glob
 <h2>Petronas Visit:</h2> <br/><br />
 <img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
 <img src="https://i.imgur.com/fdsbf0D.jpg" height="30%" width="70%" alt="Petronas"/>
+
 POSTER-
    *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
   
@@ -47,8 +48,15 @@ technologies in order to communicate with the other branch or client throughout 
 access of their respective data and protect it from the outsiders. On the other hand, Mr. Roman provided us with the skills that are crucial and required in Software Engineering field such as analytical thinking and problem-solving skills as well as programming skills. He also gave us the information about what kind of software and technologies that the softwarE engineers of Petronas use in their daily task to manage their data and systems.
 <br />
 <br />
-Huawei Visit:  <br/><br/>
+<h2>Huawei Visit:</h2>  <br/><br/>
 <img src="https://i.imgur.com/xlNoNp2.jpg" height="30%" width="70%" alt="Huawei"/>
+
+POSTER-
+   *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
+  
+<h2>REFLECTION</h2>
+From this visit, we had gained the knowledge about Huawei’s technologies and how it functions in real world. It is not only help the community to live their lives more efficiently, but it also contribute in education with the invention of smart boards. This board can help the lecturers to teach the students easily by not using any physical tools or books. So, both the lecturers and students can access their study materials virtually without bringing any laptops or books to the classes.
+<br />
 <br />
 <br />
 UTM Digital Visit:  <br/><br/>
