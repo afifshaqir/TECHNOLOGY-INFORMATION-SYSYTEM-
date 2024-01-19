@@ -8,7 +8,7 @@ This courses is core subject for first year student in computer science course a
 <h2>Industry Talk and Industry Visit</h2>
 
 <p align="center">
-Habib Talk: <br/><br />
+<h2>Habib Talk:</h2> <br/><br />
 <img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
 
 
