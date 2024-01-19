@@ -13,14 +13,14 @@ This courses is core subject for first year student in computer science course a
 
 
 POSTER-
-   *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf)</b>
+   *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
    
 <h2>REFLECTION</h2>
-I have gained so many useful input especially to create as early as possible Linkedin account’s to put
-on interesting activities that I have joined or achievement that I gained during studies.
--He also shared on useful activities that we can join as first or second year student to enhance and boost
-our CV’s input quality.As far as I know,we do not need to be active on all colloge or faculty’s activities
-but we must choose the one that are related to our study scope area (for example:coding competition and database workshop)
+From the talk given by Mr. Ninderjit Singh, we got to know about the infrastructure services that Petronas has and we also had learned about how Petronas utilize their
+technologies in order to communicate with the other branch or client throughout the world. Not only that, they also have a cybersecurity team in each department which control the
+access of their respective data and protect it from the outsiders.On the other hand, Mr. Roman provided us with the skills that are crucial and required in Software Engineering field such as analytical thinking and problem-solving skills as well as programming skills. He also gave us the information about what kind of software and technologies that the software
+engineers of Petronas use in their daily task to manage their data and systems.
+
 <br /
 <br />
 <br />
@@ -38,9 +38,13 @@ The most highlighted information that I get is“ what is the criteria that I mu
 that require us to speak fluently to communicatte with customers around the globe.
 <br />
 <br />
-Petronas Visit: <br/><br />
+<h2>Petronas Visit:</h2> <br/><br />
 <img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
-<img src="https://i.imgur.com/fdsbf0D.jpg" title="source: imgur.com" height="30%" width="70%" alt="Petronas"/>
+<img src="https://i.imgur.com/fdsbf0D.jpg" height="30%" width="70%" alt="Petronas"/>
+POSTER-
+   *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf)</b>
+  
+<h2>REFLECTION</h2>
 <br />
 <br />
 Huawei Visit:  <br/><br/>
