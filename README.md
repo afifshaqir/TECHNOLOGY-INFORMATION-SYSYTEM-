@@ -66,7 +66,8 @@ UTM Digital Visit AND Talk:  <br/><br/>
 <img src="https://i.imgur.com/d5QqUrV.jpg" height="30%" width="70%" alt="UTM Digital"/>
 <br />
 PROJECT-
-*<b>[VIDEO](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
+  
+*<b>[VIDEO]((https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/UTM%20DIGITAL%20VISIT%20AND%20TALK.pdf)).pdf)</b>
 <br />
   <p align="center">
 Credence Talk:  <br/><br/>
