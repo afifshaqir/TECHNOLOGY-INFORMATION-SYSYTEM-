@@ -67,7 +67,7 @@ UTM Digital Visit AND Talk:  <br/><br/>
 <br />
 PROJECT-
   
-*<b>[VIDEO]((https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/UTM%20DIGITAL%20VISIT%20AND%20TALK.pdf)).pdf)</b>
+*<b>[VIDEO]([https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/UTM%20DIGITAL%20VISIT%20AND%20TALK.pdf]).pdf</b>
 <br />
   <p align="center">
 Credence Talk:  <br/><br/>
