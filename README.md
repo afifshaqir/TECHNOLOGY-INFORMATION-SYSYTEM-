@@ -115,12 +115,3 @@ PROJECT-  *<b>[SLIDE](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYT
 <b> Suggestion for improvement </b>
 
 - The PC components should be upgraded or replaced because it seems old and might be damaged in the future
-
-  <h2>Reflections</h2>
-
-<b> What do I get ? </b>
-
-- I learned how to communicate with my clients properly and understand their needs
-- I also need to develop a high problem solving skills in order to provide the best solution to fulfill my clients' needs
-- Not to mention, I also able to build the trust between my groupmates throughout this projects
-  
