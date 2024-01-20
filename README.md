@@ -54,7 +54,7 @@ access of their respective data and protect it from the outsiders. On the other 
 <img src="https://i.imgur.com/xlNoNp2.jpg" height="30%" width="70%" alt="Huawei"/>
 
 PROJECT-
-   *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
+   *<b>[NEWSLETTER]([https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/UTM%20DIGITAL%20VISIT%20AND%20TALK.pdf))</b>
   
 <h2>Reflections:</h2>
 From this visit, we had gained the knowledge about Huawei’s technologies and how it functions in real world. It is not only help the community to live their lives more efficiently, but it also contribute in education with the invention of smart boards. This board can help the lecturers to teach the students easily by not using any physical tools or books. So, both the lecturers and students can access their study materials virtually without bringing any laptops or books to the classes.
@@ -62,9 +62,11 @@ From this visit, we had gained the knowledge about Huawei’s technologies and h
 <br />
 <br />
 <p align="center">
-UTM Digital Visit:  <br/><br/>
+UTM Digital Visit AND Talk:  <br/><br/>
 <img src="https://i.imgur.com/d5QqUrV.jpg" height="30%" width="70%" alt="UTM Digital"/>
 <br />
+PROJECT-
+*<b>[VIDEO](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
 <br />
   <p align="center">
 Credence Talk:  <br/><br/>
