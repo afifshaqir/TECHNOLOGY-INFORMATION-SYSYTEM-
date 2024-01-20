@@ -2,7 +2,7 @@
 <h1>Technology & Information Systems</h1>
 
 <h2>about the course</h2>
-This courses is core subject for first year student in computer science course and mainly provide the students with the basic knowledge of computer science as well as giving an early exposure to the industry and encourage students to have an engagement with the experienced individual 
+This courses is core subject for first year student in computer science course and mainly provide the students with the basic knowledge of computer science as well as giving an early exposure to the industry and encourage students to have an engagement with the experienced individual.The primary goal of a Technology Information System is to facilitate efficient information flow, enhance decision-making processes, and support the overall functioning of an organization. TIS can vary widely in complexity, depending on the size and nature of the organization, and it plays a critical role in the modern business environment.
 <br />
 
 <h2>Industry Talk and Industry Visit</h2>
