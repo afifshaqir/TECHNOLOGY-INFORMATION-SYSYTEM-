@@ -66,10 +66,8 @@ UTM Digital Visit:  <br/><br/>
 Credence Talk:  <br/><br/>
 <img src="https://i.imgur.com/Ub9xf1l.png" height="30%" width="70%" alt="Credence"/>
 <br />
-<h2>Reflections:I dream of myself becoming a system developer in the next four years, but only if I take seriously how to improve my academic record and technical proficiency, as well as my soft skills, which will make an employer want to recruit me. I need to get proficient in C++ and  MySQL among other software to make my work as a system developer easier. Additionally, the secret to success is consistency and being passionate about what I do.</h2>
+Reflections:I dream of myself becoming a system developer in the next four years, but only if I take seriously how to improve my academic record and technical proficiency, as well as my soft skills, which will make an employer want to recruit me. I need to get proficient in C++ and  MySQL among other software to make my work as a system developer easier. Additionally, the secret to success is consistency and being passionate about what I do.
 </p>
-
-<h2>Reflections:I dream of myself becoming a system developer in the next four years, but only if I take seriously how to improve my academic record and technical proficiency, as well as my soft skills, which will make an employer want to recruit me. I need to get proficient in C++ and  MySQL among other software to make my work as a system developer easier. Additionally, the secret to success is consistency and being passionate about what I do.</h2>
 
 <b> What do I get ? </b>
 
