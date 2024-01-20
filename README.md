@@ -65,10 +65,11 @@ From this visit, we had gained the knowledge about Huawei’s technologies and h
 UTM Digital Visit AND Talk:  <br/><br/>
 <img src="https://i.imgur.com/d5QqUrV.jpg" height="30%" width="70%" alt="UTM Digital"/>
 <br />
-PROJECT-
-  
-*<b>[VIDEO]([https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/UTM%20DIGITAL%20VISIT%20AND%20TALK.pdf]).pdf</b>
+
+  PROJECT-  *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/UTM%20DIGITAL%20VISIT%20AND%20TALK.pdf)</b>
+
 <br />
+
   <p align="center">
 Credence Talk:  <br/><br/>
 <img src="https://i.imgur.com/Ub9xf1l.png" height="30%" width="70%" alt="Credence"/>
