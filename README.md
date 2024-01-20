@@ -8,8 +8,9 @@ This courses is core subject for first year student in computer science course a
 <h2>INDUSTRY TALK & VISIT</h2>
 
 <p align="center">
-<h2>Habib Talk:</h2> <br/><br />
-<img src="https://i.imgur.com/sheysTI.jpg" height="30%" width="70%" alt="Habib"/>
+<h2>Habib's Talk:</h2> <br/><br />
+<img src="https://i.imgur.com/r2hhNjW.jpg" height="30%" width="70%" alt="Habib"/>
+<img src="https://i.imgur.com/Ne2SvQq.jpg" height="30%" width="70%" alt="Habib"/>
 
 
 PROJECT-
@@ -24,6 +25,7 @@ need to be active on all colloge or faculty’s activities but we must choose th
 <p align="center">
 <h2>PPG Talk:</h2>  <br/><br/>
 <img src="https://i.imgur.com/Ph7MQE4.png" height="30%" width="70%" alt="PPG"/>
+<img src="https://i.imgur.com/99nQZFp.jpg" height="30%" width="70%" alt="PPG"/>
   
 PROJECT-
    *<b>[CARRER DEVELOPMENT POSTER'S](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/CAREER%20DEVELOPMENT.pdf)</b>
@@ -38,7 +40,8 @@ that require us to speak fluently to communicatte with customers around the glob
 <p align="center">
 <h2>Petronas Visit:</h2> <br/><br />
 <img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
-<img src="https://i.imgur.com/fdsbf0D.jpg" height="30%" width="70%" alt="Petronas"/>
+
+<img src="https://i.imgur.com/fdsbf0D.jpg" height="10%" width="70%" alt="Petronas"/>
 
 PROJECT-
    *<b>[NEWSLETTER](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/NEWSLETTER%20PETRONAS%20%26%20HUAWEI%20(G1).pdf)</b>
