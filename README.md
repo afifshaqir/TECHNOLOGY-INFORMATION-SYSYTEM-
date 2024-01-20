@@ -18,7 +18,7 @@ PROJECT-
 I have gained so many useful input especially to create as early as possible Linkedin account’s to put on interesting activities that I have joined or achievement that I gained during studies.He also shared on useful activities that we can join as first or second year student to enhance and boost our CV’s input quality.As far as I know,we do not
 need to be active on all colloge or faculty’s activities but we must choose the one that are related to our study scope area (for example:coding competiotion and database workshop)
 
-<br /
+<br />
 <br />
 <br />
 <p align="center">
@@ -66,9 +66,10 @@ UTM Digital Visit:  <br/><br/>
 Credence Talk:  <br/><br/>
 <img src="https://i.imgur.com/Ub9xf1l.png" height="30%" width="70%" alt="Credence"/>
 <br />
+<h2>Reflections:I dream of myself becoming a system developer in the next four years, but only if I take seriously how to improve my academic record and technical proficiency, as well as my soft skills, which will make an employer want to recruit me. I need to get proficient in C++ and  MySQL among other software to make my work as a system developer easier. Additionally, the secret to success is consistency and being passionate about what I do.</h2>
 </p>
 
-<h2>Reflections:</h2>
+<h2>Reflections:I dream of myself becoming a system developer in the next four years, but only if I take seriously how to improve my academic record and technical proficiency, as well as my soft skills, which will make an employer want to recruit me. I need to get proficient in C++ and  MySQL among other software to make my work as a system developer easier. Additionally, the secret to success is consistency and being passionate about what I do.</h2>
 
 <b> What do I get ? </b>
 
