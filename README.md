@@ -62,7 +62,7 @@ From this visit, we had gained the knowledge about Huawei’s technologies and h
 <br />
 <br />
 <p align="center">
-UTM Digital Visit AND Talk:  <br/><br/>
+<h2>UTM Digital Visit AND Talk:</h2> <br/><br />
 <img src="https://i.imgur.com/d5QqUrV.jpg" height="30%" width="70%" alt="UTM Digital"/>
 <br />
 
@@ -70,8 +70,8 @@ UTM Digital Visit AND Talk:  <br/><br/>
 
 <br />
 
-  <p align="center">
-Credence Talk:  <br/><br/>
+<p align="center">
+<h2> CREDENCE TALK:</h2> <br/><br />
 <img src="https://i.imgur.com/Ub9xf1l.png" height="30%" width="70%" alt="Credence"/>
 <br />
     
