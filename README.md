@@ -89,6 +89,11 @@ Interview Session with Mr Aris (Database Administrator in UTM Digital: <br/><br 
 PROJECT-  *<b>[SLIDE](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/DESIGN%20THINKING%20PRESENTATION%20DATABASE%20SYSTEM.pdf)</b>
           *<b>[REPORT](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/DESIGN%20THINKING%20_%20DATABASE%20SYSTEM%20(2).pdf)</b>
           *<b>[VIDEO](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/DESIGN%20THINKING%20VIDEO-DATABASE%20SYSTEM.pdf)</b>
+<h2>Reflections:</h2>
+Reflections:I also acquire a lot of useful knowledge while working on this tool as I go deeper into the database's backend while also developing our critical thinking in order to generate a proper semi-functional solution. To summarize, during the process of developing the Power BM tools,we as a team undoubtedly discovered numerous life lessons that will undoubtedly improve our style of thinking as well as our interactions with one another in order to form a compact
+teamwork. We learned to work more efficiently and effectively under time constraints while also prioritizing quality.As a video editor, editing and recording the entire process of our Power BM tool creation journey have been amazing journey.I hope that this Power BM tool can be created when I have enough knowledge to create this system that can ease users who are struggling in managing databases.My goals towards the project is to minimize the error are made by AI until human can rely on them without doubtful.
+
+</p>
           
 <br />
 <br />
@@ -98,16 +103,14 @@ PROJECT-  *<b>[SLIDE](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYT
 
 <p align="center">
 <br/><br />
-<img src="https://i.imgur.com/2sQRrE5.jpg" title="source: imgur.com" /></a>
-<img src="https://i.imgur.com/p6r4VJO.jpg" title="source: imgur.com" /></a>
-<img src="https://i.imgur.com/8ohEi0A.jpg" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/2sQRrE5.jpg" title="source: imgur.com" alt = height="30%" width="70%"/></a>
+<img src="https://i.imgur.com/p6r4VJO.jpg" title="source: imgur.com" alt= height="30%" width="70%" /></a>
+<img src="https://i.imgur.com/8ohEi0A.jpg" title="source: imgur.com" alt= height="30%" width="70%"/></a>
 <br />
 <br />
 </p>
 
 <h2>Reflections</h2>
-
-<b> What do I get ? </b>
 
 -I learned new skills and knowledge from the PC assembly lab, including how to correctly assemble and disassemble a PC while being assisted by a skilled lab assistant.Before this, I would often ask for instructions on how to assemble a PC because I lacked knowledge and direction.Fortunately, the PC that my group (Group 1) assembled and disassembled lit up, demonstrating our newly acquired PC assembly skills.Afterwards , in order to assess our knowledge from the lab session, we must complete a brief exam on PC assembly.I am pleased with myself since I was able to obtain 5.5 out of 6 points.
 
