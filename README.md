@@ -35,6 +35,7 @@ The most highlighted information that I get is“ what is the criteria that I mu
 that require us to speak fluently to communicatte with customers around the globe.
 <br />
 <br />
+<p align="center">
 <h2>Petronas Visit:</h2> <br/><br />
 <img src="https://i.imgur.com/1aV5DH6.jpg" height="30%" width="70%" alt="Petronas"/>
 <img src="https://i.imgur.com/fdsbf0D.jpg" height="30%" width="70%" alt="Petronas"/>
@@ -48,6 +49,7 @@ technologies in order to communicate with the other branch or client throughout 
 access of their respective data and protect it from the outsiders. On the other hand, Mr. Roman provided us with the skills that are crucial and required in Software Engineering field such as analytical thinking and problem-solving skills as well as programming skills. He also gave us the information about what kind of software and technologies that the softwarE engineers of Petronas use in their daily task to manage their data and systems.
 <br />
 <br />
+<p align="center">
 <h2>Huawei Visit:</h2>  <br/><br/>
 <img src="https://i.imgur.com/xlNoNp2.jpg" height="30%" width="70%" alt="Huawei"/>
 
@@ -59,10 +61,12 @@ From this visit, we had gained the knowledge about Huawei’s technologies and h
 <br />
 <br />
 <br />
+<p align="center">
 UTM Digital Visit:  <br/><br/>
 <img src="https://i.imgur.com/d5QqUrV.jpg" height="30%" width="70%" alt="UTM Digital"/>
 <br />
 <br />
+  <p align="center">
 Credence Talk:  <br/><br/>
 <img src="https://i.imgur.com/Ub9xf1l.png" height="30%" width="70%" alt="Credence"/>
 <br />
