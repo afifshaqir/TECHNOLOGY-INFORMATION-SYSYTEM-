@@ -103,12 +103,14 @@ teamwork. We learned to work more efficiently and effectively under time constra
 
 <p align="center">
 <br/><br />
-<img src="https://i.imgur.com/2sQRrE5.jpg" title="source: imgur.com" alt = height="30%" width="70%"/></a>
-<img src="https://i.imgur.com/p6r4VJO.jpg" title="source: imgur.com" alt= height="30%" width="70%" /></a>
-<img src="https://i.imgur.com/8ohEi0A.jpg" title="source: imgur.com" alt= height="30%" width="70%"/></a>
+<img src="https://i.imgur.com/2sQRrE5.jpg" title="source: imgur.com" alt image height=30% width=70%/></a>
+<img src="https://i.imgur.com/8ohEi0A.jpg" title="source: imgur.com" alt image height=30% width=70%/></a>
 <br />
 <br />
 </p>
+
+
+ PROJECT-  *<b>[report](https://github.com/afifshaqir/TECHNOLOGY-INFORMATION-SYSYTEM-/blob/main/PC%20ASSEMBLE%20(LAB).pdf)</b>
 
 <h2>Reflections</h2>
 
